@@ -26,13 +26,21 @@ I learned  "True" and "False" can prevent the count from going up while the butt
 ### Objective
 The Photo interrupter should count the number of times it has been interrupted and print this message every four seconds without using  time.sleep()
 ### Pictures
+# Hello CircuitPyt
+This# assignment was an introduction to the coolctive<<< HEAD
+## Hello Circu
+![GitHub Octocat](Fritz/circuitpython_photointerrupters_fritz_image.jpg)
+### 
 ### Lessons
 I learned how to be patience
 I learned that time.monotonic() tracks the time since the program started, and I learned that the MOD function only prints a message when the time is divisible by four.
 ## CircuitPython Distance Sensor
-### Objective
+### Objectiv### Objective
+This assignment was an introduction to the cool### Objective
+Thin to it cool new programming lanwas ae
 The on-board neopixle RGB LED should change colors based on the distance read by the ultrasonic sensor.
 ### Pictures
+![GitHub Octocat](Fritz/circuitpython_sensor_fritz.jpg)
 ### Lessons
 I learned how the on-board RGB LED works and that you have to used absolute valus and integer functions to find the distance with the ultrasonic sensor.
 ## Classes Objects and Modules
@@ -40,6 +48,3 @@ I learned how the on-board RGB LED works and that you have to used absolute valu
 This assignment introduced was create our own modules. This assignment had us make a module for 2 RGB LEDs.
 ### Pictures
 ### Lessons
-I learned to always double check the pins. I also learned how to create an object
-
-
